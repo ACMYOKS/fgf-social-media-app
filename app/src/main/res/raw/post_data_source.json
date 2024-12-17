@@ -1,0 +1,165 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Sunset at the Beach",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Sunset+at+the+Beach",
+      "content": "Enjoying a beautiful sunset at the beach! The colors painted across the sky were simply breathtaking. I couldn't help but feel grateful for such moments of tranquility.",
+      "liked": false,
+      "createdAt": 1672531199000
+    },
+    {
+      "id": 2,
+      "title": "Book Recommendation",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Book+Recommendation",
+      "content": "Just finished a great book. Highly recommend it for anyone looking for an engaging story. It really made me reflect on my own experiences.",
+      "liked": false,
+      "createdAt": 1672534799000
+    },
+    {
+      "id": 3,
+      "title": "Mountain Hiking Adventure",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Mountain+Hiking+Adventure",
+      "content": "Had a fantastic time hiking in the mountains today. The fresh air and stunning views were invigorating. It's amazing how nature can recharge your spirit.",
+      "liked": false,
+      "createdAt": 1672538399000
+    },
+    {
+      "id": 4,
+      "title": "Baking Success",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Baking+Success",
+      "content": "Tried a new recipe and it turned out amazing! The aroma filled the kitchen, making everyone excited. I can't wait to share these treats with my friends.",
+      "liked": false,
+      "createdAt": 1672541999000
+    },
+    {
+      "id": 5,
+      "title": "Rainy Day Coffee",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Rainy+Day+Coffee",
+      "content": "Coffee and good vibes on a rainy day. There's something comforting about sipping a warm drink while watching the rain fall. It’s the perfect excuse to slow down and relax.",
+      "liked": false,
+      "createdAt": 1672545599000
+    },
+    {
+      "id": 6,
+      "title": "City Exploration",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=City+Exploration",
+      "content": "Exploring the vibrant streets of the city was exhilarating. Each corner held a new surprise, from street art to hidden cafes. I love discovering the unique culture and energy of urban life.",
+      "liked": false,
+      "createdAt": 1672549199000
+    },
+    {
+      "id": 7,
+      "title": "Weekend Getaway",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Weekend+Getaway",
+      "content": "Enjoyed a weekend getaway to the mountains. The change of scenery was refreshing, and I felt reconnected with nature. It’s always nice to escape the hustle and bustle of daily life.",
+      "liked": false,
+      "createdAt": 1672552799000
+    },
+    {
+      "id": 8,
+      "title": "Family Time",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Family+Time",
+      "content": "Spending time with family is the best. We shared stories, laughter, and created wonderful memories together. These moments remind me of what truly matters in life.",
+      "liked": false,
+      "createdAt": 1672556399000
+    },
+    {
+      "id": 9,
+      "title": "Northern Lights",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Northern+Lights",
+      "content": "Caught a glimpse of the northern lights! The spectacle was like a dream, with colors dancing across the night sky. I felt so lucky to witness such a natural wonder.",
+      "liked": false,
+      "createdAt": 1672560000000
+    },
+    {
+      "id": 10,
+      "title": "New Puppy",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=New+Puppy",
+      "content": "Just adopted a new puppy! Meet Max, my adorable bundle of joy. I'm excited for all the adventures we'll have together!",
+      "liked": false,
+      "createdAt": 1672563600000
+    },
+    {
+      "id": 11,
+      "title": "Beach Day Fun",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Beach+Day+Fun",
+      "content": "Beach day with friends and laughter! We played beach volleyball and enjoyed the sun. It's always a joy to create lasting memories by the ocean.",
+      "liked": false,
+      "createdAt": 1672567200000
+    },
+    {
+      "id": 12,
+      "title": "Art Therapy",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Art+Therapy",
+      "content": "Creating art is my therapy. Each brushstroke helps me express my emotions and thoughts. It's a beautiful way to unwind after a hectic day.",
+      "liked": false,
+      "createdAt": 1672570800000
+    },
+    {
+      "id": 13,
+      "title": "Sunflower Fields",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Sunflower+Fields",
+      "content": "Sunflowers make everything better. I love wandering through fields of these bright blooms, soaking in their cheerful energy. They remind me to always look towards the light.",
+      "liked": false,
+      "createdAt": 1672574400000
+    },
+    {
+      "id": 14,
+      "title": "Holiday Baking",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Holiday+Baking",
+      "content": "Baking cookies for the holidays! The kitchen is filled with delightful scents of cinnamon and sugar. I can't wait to share these treats with family and friends.",
+      "liked": false,
+      "createdAt": 1672578000000
+    },
+    {
+      "id": 15,
+      "title": "Road Trip Adventures",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Road+Trip+Adventures",
+      "content": "Road trip adventures with the best company. The open road and good music make every mile enjoyable. I love discovering new places along the way!",
+      "liked": false,
+      "createdAt": 1672581600000
+    },
+    {
+      "id": 16,
+      "title": "Autumn Colors",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Autumn+Colors",
+      "content": "Falling in love with autumn colors. The vibrant reds, oranges, and yellows create a stunning backdrop. It's the perfect time for cozy sweaters and warm drinks.",
+      "liked": false,
+      "createdAt": 1672585200000
+    },
+    {
+      "id": 17,
+      "title": "Concert Memories",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Concert+Memories",
+      "content": "Attended an amazing concert last night! The energy in the crowd was electric, and the music was unforgettable. I'm still buzzing from the experience!",
+      "liked": false,
+      "createdAt": 1672588800000
+    },
+    {
+      "id": 18,
+      "title": "Marathon Accomplishment",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Marathon+Accomplishment",
+      "content": "Just finished a marathon; feeling accomplished! The training was tough, but crossing that finish line made it all worthwhile. I can't wait to challenge myself again!",
+      "liked": false,
+      "createdAt": 1672592400000
+    },
+    {
+      "id": 19,
+      "title": "New Hiking Trails",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=New+Hiking+Trails",
+      "content": "Trying out new hiking trails this weekend. Each path offers its own unique scenery and challenges. It's a great way to connect with nature and stay active.",
+      "liked": false,
+      "createdAt": 1672596000000
+    },
+    {
+      "id": 20,
+      "title": "Movie Night In",
+      "imageUrl": "https://dummyjson.com/image/400x200?type=webp&text=Movie+Night+In",
+      "content": "Movie night with popcorn and friends. We selected a mix of classic and new films for the perfect marathon. It's always fun to share laughs and favorite scenes together.",
+      "liked": false,
+      "createdAt": 1672599600000
+    }
+  ]
+}

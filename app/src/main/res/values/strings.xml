@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <string name="created_at">Created at: %1$s</string>
+    <string name="no_comment_yet_be_the_first">No comment yet, be the first!</string>
+    <string name="loading_comments">Loading comments...</string>
+    <string name="cannot_retrieve_post">Cannot retrieve post</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="comments">Comments</string>
+</resources>
